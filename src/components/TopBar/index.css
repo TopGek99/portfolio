@@ -1,0 +1,15 @@
+#topbar {
+  background-color: #000;
+  height: 100%;
+  padding: 5px;
+}
+
+.link {
+  color: rgb(114, 114, 114);
+  text-decoration: none;
+}
+
+.link:hover {
+  color: white;
+  text-decoration: none;
+}
